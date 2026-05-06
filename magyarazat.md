@@ -1,10 +1,4 @@
-# Részletes Felkészülési Útmutató a Védéshez (Kódrészletekkel és Fájlszerkezettel)
-
-Mivel a tanár úr a kód logikájára és a konkrét implementációra is kíváncsi lehet, ez a dokumentum úgy lett kibővítve, hogy **fájlról fájlra, függvényről függvényre** tudd elmagyarázni, hogyan épül fel a programod, és milyen Python specifikus megoldásokat (pl. `heapq`, `dataclasses`) használtál.
-
-Így építsd fel a mondandódat:
-
----
+# Részletes Felkészülési Útmutató a Védéshez 
 
 ## 1. A Projekt Fájlszerkezete és Architektúrája
 "A projektet teljesen modulárisan építettem fel, hogy a különböző funkciók (adatok, szimuláció, ütemezés, kiértékelés) logikailag el legyenek különítve. Öt fő fájlom van:
